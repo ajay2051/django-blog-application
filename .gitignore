@@ -1,0 +1,5 @@
+venv/
+manage.py
+djangoblog/settings.py
+__pycache__/
+migrations/
